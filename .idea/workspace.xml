@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/BS/spider/spider.py" line="139" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32e6290c-7139-4ad9-987b-a3740f3e4e9c" name="Default" comment="TestQuestion Crawler">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BS/1.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BS/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BS/Test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BS/Test/setVal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BS/Test/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BS/Test/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BS/Test/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BS/UI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BS/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BS/bstable.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BS/export.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BS/glo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BS/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BS/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BS/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BS/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BS/spider/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BS/spider/spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BS/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BS/物理填空.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/00224d1b854a5133f3a31f399df4b9b0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/02de10457e8ada430478a921a6620cea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/0573eeef5ae146859714261d84869f85.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/06ce3f55123423d03495fcd56b76d7a1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/091fa257cef1ce95b373dd5c512686e9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/0b65cd50258816c64d058881c3721c07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/0ef28e52528133fb0c3f3b8eda360412.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/16e434d47a1a1446cad785ba4649e7d4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/2171126b0499193a30d82def3fe3beca.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/234273b1b8ce5657dd355174b21f386a.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/249017047041cabdb7f8ba1f138bed8c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/25bb9bdb9fe260d245ceb08b4582a62f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/267794ee754548d66116024b63aba8d3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/294af4fa61eac7b6ed027a18ff33925a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/2a1c717a67351f25830939de4292bded.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/2a5f5b29b9e6c8572e17106e6fbfef36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/2ba0ceb45b366219a93be82cee70b97a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/2c684933590db5e12dc119f2e6bcaaf0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/2cc91e71deebd9ae3aff8715f74e3156.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/302e4afe939369546c78ea4a98bee3f2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/32b0f3693624a7d4b2b55e9309fb3c97.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/34258c910fd4e22c9eae8ecd64a1095f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/35807099e333a8a25dd0675a6c6d7d74.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/36ae5cafb05c7589eaa889f8e8a1b6d5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/3ebbdea8dedac2f4afa2d45ae6b1ee6b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/3f46e2600f4931676b56bb0c2103d7fc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/41d17b187c07bfd4fa0252dcb20c413e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/47a58ac50de1629883dd65da86656d6b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/48d929985fa095fb7e99b7889d560a20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/4a58618abeb18fee38a4160d8410767a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/4c6d337f4de20dfea8c7330d18a1be11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/55c9e5382451f824ac606dae6679eac8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/55db2ad57e75875b90f0723673d41d67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/5767b05430916752d1497b35a4c90575.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/57eb0b32ce084bd3491db3cd0bdf8216.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/65725918608aad941411c3b6cafc5d55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/65838940cd9322e46a4432768c807937.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/671aa5a800ac745955165a29f4b97912.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/6ea57163c9ccc151506146afbf2c1cb5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/7aaa40fcdac8e0c67e4b12b579603064.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/813a300545fd46ea298172eeebd6f87e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/83a7cc97acd46fd54392028bde9232a2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/8946a34dc5d0b86a2b61c1c24f6eeceb.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/8d3b2e2c5ab6cb47458663be9d43580e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/917f81c277d425d2d8c4589215c60c4c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/9422bcbade993456bbd3342b0797ce78.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/954261f00d288c84038c735c5297b427.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/9849a01d4a4797fc268cd204747e4d2b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/9b0edded4b7ca7ad9741f724e1e41483.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/a68fcbd54ab47323c84b1469870eb919.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/a7109815adf995f96271040b0bb7cfda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/a984693a5cb9ba5dfb70b9f17cbdfbb7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/b04a0e4b670044efba71a71cbec8e3b2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/b0912a7e17aff94a71b35b785c964421.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/b45e0b9dae4f52acda07ab4dca5f1bd9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/c082ceadd019228d55d9788d5c0303b0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/c1a45c3dfca8030285ef75caaedbfadc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/c360212ec6842d80b2d36b83f86d53c5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/c39e17e1896c288ef202841794385d62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/c46db87f6f44cc9cd4548a0e86ccbfa7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/ca182d4db0019d5456737d8149932e66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/ca4f929b189bb2a83bc1d6903987a5b3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/cdfbb1e525a8c4f61465a6d01a9d645e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/d5e3e6f47000429b5955d0e883317ce5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/d998216ed51e6b6e36f30402288002f5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/db7d9e68f4efae7d3302d42ab227e9c7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/dc3b4b6f719251fbc7544c9fd9fa9261.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/def2149b4b793da7480c0d947b802153.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/e5241376adc47a96455741461c64a1b7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/e82ebf1712352abb0ead4da0b3060302.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/eb24617c49e10f88febd64959d15351b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/ecfe9d1cdeda01c9b927f567d764015f.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/eea34b7e2c403494856c6a7d547d1362.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/f34b204e664838be303a954c45548520.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/f3e743bc5dacc49b16f0be6f495b9910.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/f66faff2bce4ebe7d34855cc0e6ad9bb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awImages/fae6e1b46bb3191efb7f4210eccc9cbe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/00224d1b854a5133f3a31f399df4b9b0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/04cd104952edda21bebca88268c0446b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/058cc7c696bc25dfe758142c9bef0a98.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/06ad661282a8e619663675097e769e6c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/0a810640bad189e59acab3cec0043e6a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/0b474c029e2602195ac9b53a5bd891f4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/0cfa98c36263723ecf0cff88bdba1882.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/0d87070b1024c788150af5c4055a6ff7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/0e101505ca640bb3633eb65474089df1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/11a95ba2ce80e62b1092a8baafa727b2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/11e8315441058e150c3f7e92d8f18792.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/1350abff993f8963705b089b2f776d9e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/13fbe868ec387326c158125cb11a808e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/15fe3fe873608e2395479d024c581bbe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/175cc3a677fb7fff185593c90fe816b7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/17a739867655e9f0b3848ffaac5b2431.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/19ce7c9934fb55a43e57cfde93035dc3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/1a66edd96b8e7551530bf65a716336a6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/1a7ef2da334da609a028c71fdddc1324.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/1b0c8a6d570742b6b194126c8ad5f5f0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/1cf5469ff8bd0a469c62cf38030b47da.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/1d2c9589cfa2453bcb402b743d3fc1b1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/1d976cfb56b1fba0e22be9e4a666deb6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/1e1af7d270caf9d2d321cdade4174e39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/1f146dc833d12425afe7834c0893adeb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/1f8500e171267355091aeef3a32c2feb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/1fef96d8109d2fbee142fe4cbb0042be.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/2119eca6804cac251fae5633795375b5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/2171126b0499193a30d82def3fe3beca.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/22702d13883bc4f45159c20ccebb76af.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/2622fdba200ef3e2c14cb05719e350a6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/263b87a73996b608d57046dd7bec82c1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/276b8f0b82fac0282b10b238e2544fe3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/28c34aab569d102fa36043f3499991db.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/28ec65a31a1aeb68b41ca38675c3f4fd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/2b1b1d2d5b34e1a89b888ae6922a0f0a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/2b1d2923d65f3af57d6705be6b52b66c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/2b457ce8fb639542a9b26e2b6c63f3ad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/2b59cf2ff819055b33eaa529d7e1e87c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/2c38d7bd1a158bf3c9605124934042ee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/2e3e83300721aee49fb702d90602cd05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/2f0f85d4402209482e54d3a95382f2ed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/306166cb6f2c57a0b3d384161b525e13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/3373d85c9401942a7bd6baa38aefd646.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/33bee7b8f702179b034f3d8cb2ade472.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/346489343a8f56a7a2eeeac9597fa181.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/3735f14e87ff51c12d0eebcf30ca7540.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/381c56628efae1314d08d897b9c21eb5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/387fd5107fcb5dcd4f181ba3b49e856d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/3942794528de052f8f323fccf958076f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/3be8c719a3ac9f5342a8df752bd4d5df.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/3d39df3ad3847f451f1e786ee58d9562.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/3de4f81ed5b8ed0f89e8b52e07a82c28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/3f173d798457caa1b8c46556b208b7ee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/3f4d53a0aab0d26cebb2fbf3823b5f0d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/442d2e2efa867a84f15251d3c4aaa8dd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/446866e4291c938db5a0f7fba999c4fa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/466cc8358f7e7c9b6eee36ed066a2cce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/46d58672400d845a922a75f3183d25d4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/46f04f0e8e1e7e431f6d3e0ef24782a8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/4776fb2a14d6cb86047e5d38d2a6464c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/47a71a89298483f4a12271bc482064f0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/49d7395fa9aea12756ecdb20c6b8ecda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/49f94be31a0963565b41eeb358040a39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/4a21f17914c2b2f7d7df834e6cfd2834.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/4db43f2cddcf03eb3841aefdec9ee618.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/50e500a130c3ce1692f2a7f38a6a93e6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/51c7ba8f92a025d13d41d6c4acdd3edf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/52963cfb47d5967a8b39ab3dc9464a3b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/52982b35207f8f07ef834dc1916d3b23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/53d5729cf13459030c73ebcd3979cbca.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/54e1b0696adbb2b118d2a31f8b562456.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/55b985b16dd2fd843d39c77e8571538e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/571e6826015053cbfd9b2fda6d656a26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/57b38a9f95caa5f93cecf419be322fa4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/583759584b3207e68dd68b4c569c41b9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/58fcec982bb48fdc1736f601ec9cc251.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/5946c2c131d42a05456c122973db3b38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/595a4f8f1bee9eed7605035d9557a188.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/599a68231d9a53c630ba0e9a08a0407b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/5b9fe595cf116e23db2d82afc75f0443.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/5c84abada37b9af7fdbbd670ef947a02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/5caff973e2687c201d9dedb531d0aadf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/5da0e664362afbd6de7122aba03e81e9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/60ae0ed55435df064e1163463bcc87fd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/60d31ba5417fb76e120b07182c52d4ed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/622680dbf68a61e1087bd7b72f716d26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/62d19ccddce8c8f81ecc7a1f202d1644.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/64004fb86a01eb3ee22407bc010a2b73.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/65725918608aad941411c3b6cafc5d55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/67cb6de6f207d2534793a4460209606c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/68b396181f2e7a30f06d368f7df340bd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/6946098a6f34ec0a8be04ee280ad6d7c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/6ac010432dbdb65f7ff47f8b3912bd36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/6bedf7a62051b72a524a00dbac083217.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/6edb9348a6f60b1678461fb933bcb26f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/6fae9f71542e9c5a872a69e9708f8825.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/707cf276f4576f760e5a961e378de615.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/70a550e5ece0f53e3a28a5573cf79a5c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/71b289743dc47a31da8442646887d30f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/71f3be835473e6f5165473ff40bc636d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/7429ad41cd66a53afdb4448f2c930203.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/756d879f136b66dce111e945771a6d9d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/762bb243d6c4b511f777f4058a4d54d4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/76ee035dcde814c2adb955fb9c0433c6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/7972b716479d849d0d3cd908117dc62d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/7b7ccd4c4433f7e47d6c62a3eb3d4ab5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/7c08d220031b171c5fadfdb20cc00e18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/7d38d85992810aa9aa348546d68116b4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/7dd46f1a1d1b36aa21e2914d04c3d4db.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/82525bde0723ca20c54e12601a6d32fe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/8762c1d5f2625845619c8ad33aacc66d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/87ed5fd62fe60f38c6ed2c45e3daa3aa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/88443ef5810350d88539fbd65688be20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/8a768ebc044490cb808a5105fcf2fa64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/8adf0065487c8624b98d1cf456f950d7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/8d54d76e394ac9768c98137f4dc785d6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/8d5d494f3335462f8199da6cfa004e0c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/8e2c407a18a0b4f3ace269749bf785b0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/8f2777d9380bdef75aa2679cae071d3f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/8ff7c61d3236a4b77e6fd506b4f8e994.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/918943ea05804f5b78f18b44d719aba7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/91df98e439fe7d5d7a59d27d14eced23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/922a7f33ff3bc0d5c58046a8bbc4cc77.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/92e84b2ac14cc60c1477f709c55e6546.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/93e32cab201dc88adbc30f7ad3caa3b8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/9415ebdde1392f7c4b7ebb63aac57435.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/983315ea45ae78908b52d289ca9f3605.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/99315fe264234f780efbe7e0cec5a2e3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/9941db66c2d5e4a5a60e59008d2816a2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/99cb7cd7333698746451a213c0d2166a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/9a96b913a08cd7781a460174c251cf8f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/9add5eb74567d9cc47650cc8e23adfe3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/9f6620d2d0b494088cf63366a4843fe1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/9f7fb709aa901aefdfcf636c76dc13be.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/9fe9fa7f25d82ead8a350767ac985ab9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/a11738c4394b9209610586a1ab31a7be.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/a1b6f8619906288f3a7af82a9e39d920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/a1ca7d7c56bd887b3405cdf7edda96bb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/a60f346074b7fd5688589d0f788605c8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/a897abf62d3ac562af76813930a9be3e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/a8ba21d0b19535cb3e5eb053d07174bd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/a8db7ff577898da27ede47318b82fc38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/ac308e00b5a121c29213253fd1878b03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/ad7032cb473eedf5f5cedbcadd9d562e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/ae356c0b181703ea85ec7f7dd22f3d1c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/af8b20bf2351059addced888210ddfd8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/b1eb21e568922c59e834bff2facaa224.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/b23b16f0a711ebae190ca5e632399922.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/b288af25304fc087261f6c3cb8218e8a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/b3764ee6806408fc08cb828d11f09edd.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/b38a7b4d5fa6cd89731308e91488a38b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/b4d4d5aa4e6912a51097ae883a3b8ed4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/b75e2978881227b0a23198bcd06032d7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/b809a77b4e69c282aeb0f6bc1d25ac56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/b8ede5b9dab7da9bc3652736bf83e780.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/ba14e8c4fed2d8b0ecfe297a942bfbf6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/ba820b40764f2d5318734da4294a8083.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/baed411e6437ac1f69e4523368c6b63e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/bc872bd6ad38f983f85c48a92052d833.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/bd86d2b66148888bffd41d3e3153b581.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/bdb05311f2b71bf724179f2db48d8a7f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/c0f550360bc070202b2e2bf6433d818c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/c6be06af6a2bee1f36f07a366268b8f6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/c79e35540f5721451b5072173a7b4157.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/c8d4ba100fd1c634be60f32a4ca260c6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/c94d75ee6df58e38f3e789a15a65b044.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/ca85839674895043ce7f0eb2b357fece.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/cb729201d10f1be1e317cbdfe3b6ccba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/cbf26e4dc45a18bd317836ed76816add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/cd0955f45bd8200ef33c15356f1c88a0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/cf754a6a7983c57d07762797e0aae6ac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/d0275d34bae5bf9f0840434e79b22a95.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/d059d1c3a4483e4506b5124b0f89fe13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/d0a7987bda57fc1c2ec0c849419562ad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/d0c4e54ce126139a24adb64561505a16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/d318112035809091e7f2ad6678a263e7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/d572518b5a2dae577a43b7726307af80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/d6f59937fbe05e6e656d28480a5cfeb9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/d7a4f340da0866ad64eca307b002c294.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/d814f23d06c6212e9d2b7001287ac7e2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/d833b8894851af1ba9c9e2a18e1177af.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/d8743ca177991c91e5829c36b8dd31be.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/d8f75d7850021f9f3f1e6506f2533e19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/d8fe29c864727fa8202bb9681f375380.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/d957fc2782154b308f01311cc75185bf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/d99b95c8a9eb81301409fe9e466c233b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/da5127ff5d250094ac324fa3575283e7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/db0c827cf495c6e3f47daac4d3c6a9ac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/dc3b4b6f719251fbc7544c9fd9fa9261.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/dd054de35f302067c9a99f4291cb2b0f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/df804a8f8809946dfd149a71ea752da2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/e0388172f7cc2b97a7c994450a3fdfa8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/e252d9e5a45c52cfa92308de6a2db6cc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/e308551059279ea67f6c45cfe4442996.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/e328a45ef964b55b4cba40064d6b6404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/e35cb9e071039e8d9378db218554face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/e39448c9536f56cf0c3ef2887875c3a8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/e863d9f55fc09d8218da6958a39c5075.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/e8c33a7786aaade759702766839e636d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/e91fd8bdbea1c0574a30559df62b6fe8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/e98a02a7f0434fa33607f4f44c932fb1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/e9e369a09a5b48817a56d64ad19e3d8a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/edcb4911886c4e33c066ed6ffe0d81e4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/ee88ab846ee3fc367bf2cf7b692adfa3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/f11591d31ca967c041b6073274cff541.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/f21b1f150f0acce9732d9f09a89ca443.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/f2aa82302b011c119be4e5f4d6b72369.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/f3067787030515478734a68e4492d5d6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/f4698d0b75183993858ad407f7c9c39e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/f4dc7003495ee882e350db55bcc3dbb7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/f4e64e0c15c16c4b5170de2db7dc1ee7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/f5bd7996f7e2870920cd43fd91ba6b32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/f6501c0512cb253934d8c35668fb24c4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/f6de6b62048799872b8a6b5c6396fca0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/f7b382f3f8b5e4d63b245d0c8fdcb0e5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/f945e31e986556e85d6015bbaabeb3df.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/f9b1a8053c8131a8dbd416b1ecb29c35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/fa04571691a2e8bb40b3e1f8d3817008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/fa9e798ccca56f024cf901470ab766ac.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/fb23232a130c65226afebd2c669a63e6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/fb626b48857f0825ecbd1d5a5f9d6430.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/fdcfaec431a4418f38be13074d1c5d78.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queImages/fe088429fe8336fffbf207d4122c0f5f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapy.cfg" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/BS$start.coverage" NAME="start Coverage Results" MODIFIED="1553851905796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BS$test2__1_.coverage" NAME="test2 (1) Coverage Results" MODIFIED="1554294962302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BS" />
+    <SUITE FILE_PATH="coverage/BS$items.coverage" NAME="items Coverage Results" MODIFIED="1553851026252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BS" />
+    <SUITE FILE_PATH="coverage/BS$export.coverage" NAME="export Coverage Results" MODIFIED="1554729283080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BS" />
+    <SUITE FILE_PATH="coverage/BS$UItest.coverage" NAME="UItest Coverage Results" MODIFIED="1555254371556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BS" />
+    <SUITE FILE_PATH="coverage/BS$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1555130041900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BS/Test" />
+    <SUITE FILE_PATH="coverage/BS$pipelines.coverage" NAME="pipelines Coverage Results" MODIFIED="1554209813004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BS" />
+    <SUITE FILE_PATH="coverage/BS$UI.coverage" NAME="UI Coverage Results" MODIFIED="1560044759039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BS" />
+    <SUITE FILE_PATH="coverage/BS$start__2_.coverage" NAME="start (2) Coverage Results" MODIFIED="1555084124206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BS" />
+    <SUITE FILE_PATH="coverage/BS$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1555130377536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BS/Test" />
+    <SUITE FILE_PATH="coverage/BS$setVal.coverage" NAME="setVal Coverage Results" MODIFIED="1555131232697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BS/Test" />
+    <SUITE FILE_PATH="coverage/BS$start__1_.coverage" NAME="start (1) Coverage Results" MODIFIED="1554109476887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BS" />
+    <SUITE FILE_PATH="coverage/BS$spider.coverage" NAME="spider Coverage Results" MODIFIED="1555084158837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BS/spider" />
+    <SUITE FILE_PATH="coverage/BS$test.coverage" NAME="test Coverage Results" MODIFIED="1555124939885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BS/Test" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BS/export.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2888">
+              <caret line="161" selection-start-line="161" selection-end-line="161" />
+              <folding>
+                <element signature="e#26#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BS/spider/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BS/spider/spider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="44" column="40" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+              <folding>
+                <element signature="e#25#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BS.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BS/UI.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#25#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>StartCall</find>
+      <find>InputType</find>
+      <find>inputType</find>
+      <find>self</find>
+      <find>self.</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/UI.py" />
+        <option value="$PROJECT_DIR$/test.csv" />
+        <option value="$PROJECT_DIR$/items.py" />
+        <option value="$PROJECT_DIR$/start.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/BS/middleware.py" />
+        <option value="$PROJECT_DIR$/BS/test.csv" />
+        <option value="$PROJECT_DIR$/BS/items.py" />
+        <option value="$PROJECT_DIR$/BS/spyder2.py" />
+        <option value="$PROJECT_DIR$/BS/spider.py" />
+        <option value="$PROJECT_DIR$/BS/spider/start.py" />
+        <option value="$PROJECT_DIR$/BS/middlewares.py" />
+        <option value="$PROJECT_DIR$/BS/settings.py" />
+        <option value="$PROJECT_DIR$/test2.py" />
+        <option value="$PROJECT_DIR$/BS/test2.py" />
+        <option value="$PROJECT_DIR$/BS/Test/test.py" />
+        <option value="$PROJECT_DIR$/BS/glo.py" />
+        <option value="$PROJECT_DIR$/BS/Test/test2.py" />
+        <option value="$PROJECT_DIR$/BS/Test/test3.py" />
+        <option value="$PROJECT_DIR$/BS/Test/setVal.py" />
+        <option value="$PROJECT_DIR$/BS/start.py" />
+        <option value="$PROJECT_DIR$/BS/UItest.py" />
+        <option value="$PROJECT_DIR$/BS/pipelines.py" />
+        <option value="$PROJECT_DIR$/BS/UI.py" />
+        <option value="$PROJECT_DIR$/BS/export.py" />
+        <option value="$PROJECT_DIR$/BS/spider/spider.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="948" />
+    <option name="width" value="981" />
+    <option name="height" value="1092" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BS" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ_IDEA2018.1.6\workspace\BS\BS" />
+      <recent name="D:\IntelliJ_IDEA2018.1.6\workspace\BS\BS\spider" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ_IDEA2018.1.6\workspace\BS\BS\Test" />
+      <recent name="D:\IntelliJ_IDEA2018.1.6\workspace\BS" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.UI">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BS/UI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UItest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BS/UItest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="setVal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BS/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BS/Test/setVal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BS/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BS/Test/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BS/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BS/Test/test3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Python.UI" />
+      <item itemvalue="Python.test2" />
+      <item itemvalue="Python.test3" />
+      <item itemvalue="Python.setVal" />
+      <item itemvalue="Python.UItest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.UI" />
+        <item itemvalue="Python.UItest" />
+        <item itemvalue="Python.setVal" />
+        <item itemvalue="Python.test3" />
+        <item itemvalue="Python.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32e6290c-7139-4ad9-987b-a3740f3e4e9c" name="Default" comment="" />
+      <created>1551950591353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551950591353</updated>
+      <workItem from="1551950597140" duration="1190000" />
+      <workItem from="1551958293799" duration="355000" />
+      <workItem from="1551958682112" duration="1144000" />
+      <workItem from="1551960001152" duration="2567000" />
+      <workItem from="1552125141279" duration="2557000" />
+      <workItem from="1552454825115" duration="3095000" />
+      <workItem from="1552542273061" duration="5222000" />
+      <workItem from="1553834531338" duration="29697000" />
+      <workItem from="1553927787509" duration="1276000" />
+      <workItem from="1553933089355" duration="24214000" />
+      <workItem from="1554037050663" duration="10717000" />
+      <workItem from="1554089659395" duration="18852000" />
+      <workItem from="1554177834392" duration="6719000" />
+      <workItem from="1554266481400" duration="21680000" />
+      <workItem from="1554350228682" duration="5292000" />
+      <workItem from="1554703811073" duration="883000" />
+      <workItem from="1554717752963" duration="9035000" />
+      <workItem from="1554726984093" duration="1894000" />
+      <workItem from="1554959084810" duration="3143000" />
+      <workItem from="1555053003565" duration="11342000" />
+      <workItem from="1555120124907" duration="17607000" />
+      <workItem from="1555232140196" duration="10461000" />
+      <workItem from="1555334094803" duration="153000" />
+      <workItem from="1555339740207" duration="74000" />
+      <workItem from="1555565067383" duration="1661000" />
+      <workItem from="1556085302193" duration="3070000" />
+      <workItem from="1556116898814" duration="4339000" />
+      <workItem from="1556357907711" duration="7620000" />
+      <workItem from="1556610104309" duration="6761000" />
+      <workItem from="1556945477671" duration="1931000" />
+      <workItem from="1557118240090" duration="154000" />
+      <workItem from="1557121809225" duration="927000" />
+      <workItem from="1558599365890" duration="4070000" />
+      <workItem from="1560044233258" duration="3131000" />
+      <workItem from="1564038301554" duration="597000" />
+      <workItem from="1572658873206" duration="437000" />
+      <workItem from="1572659371662" duration="332000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="224199000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14389652" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.22186495" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27147767" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39871383" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="SciView" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Maven" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TestQuestion Crawler" />
+    <option name="LAST_COMMIT_MESSAGE" value="TestQuestion Crawler" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BS/settings.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BS/export.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BS/pipelines.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>inputUrl</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/Python27/Lib/site-packages/requests/api.py" />
+    <entry file="file://$PROJECT_DIR$/test.csv" />
+    <entry file="file://C:/Python27/Lib/site-packages/scrapy/utils/defer.py" />
+    <entry file="file://$PROJECT_DIR$/BS/spyder2.py" />
+    <entry file="file://$PROJECT_DIR$/BS/test.csv" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$APPLICATION_PLUGINS_DIR$/python/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="398" column="31" selection-start-line="398" selection-start-column="31" selection-end-line="398" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BS/Test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BS/Test/test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BS/Test/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BS/Test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BS/Test/setVal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BS/test2.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/scrapy/middleware.py" />
+    <entry file="file://$PROJECT_DIR$/BS/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BS/UItest.py" />
+    <entry file="file://$PROJECT_DIR$/BS/11.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BS/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BS/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="114" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BS/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BS/glo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BS/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BS/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BS/export.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2888">
+          <caret line="161" selection-start-line="161" selection-end-line="161" />
+          <folding>
+            <element signature="e#26#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BS/spider/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BS/UI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#25#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BS/spider/spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="44" column="40" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+          <folding>
+            <element signature="e#25#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BS.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Django</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 2.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Python 2.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>BS</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
